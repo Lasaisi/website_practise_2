@@ -1,14 +1,14 @@
 # website_practise_2
-Solar system website
+
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Solar System</title>
-        <style>
+        <!...title Solar System title...>
+        <!....style
             table,th,td {
                 border: 2px solid black;
             }
-        </style>
+        style...>
     </head>
     <body style="background-color:wheat">
         <h1 style="font-family: Cursive; font-size:70px; color:rgb(139,0,0)">Solar System</h1>
